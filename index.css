@@ -73,7 +73,7 @@ body {
 .background {
     position: relative;
     top: 150px;
-    background-image: url(background.jpg);
+    background-image: url("background.jpg");
     background-size: cover;
     background-position: center;
     width: 96%;
